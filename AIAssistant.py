@@ -9,7 +9,7 @@ client=genai.Client(api_key=api_key)
 
 #-------------PAGE CONFIG----------------#
 st.set_page_config(
-    page_title="AI Student Assistant",
+    page_title="AI ChatBot",
     page_icon="logo.png",
     layout="wide"
 )
@@ -47,7 +47,7 @@ with st.sidebar :
 
 
 #-------------MAIN PAGE----------------#
-st.title("🧠 AI Student Assistant")
+st.title("🧠 AI ChatBot")
 st.write("Welcome ! Im Here To Answer Your Questions.")
 st.logo("logo.png")
 
