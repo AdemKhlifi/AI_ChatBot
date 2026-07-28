@@ -1,6 +1,6 @@
-# 🧠 AI Student Assistant
+# 🧠 AI ChatBot
 
-AI Student Assistant is an AI-powered chatbot designed to help students learn programming, understand computer science concepts, and solve technical problems through interactive conversations.
+AI ChatBot is an AI-powered chatbot designed to help students learn programming, understand computer science concepts, and solve technical problems through interactive conversations.
 
 The project uses Google's Gemini AI model to provide intelligent answers and explanations, making it a useful learning companion for students.
 
